@@ -1,0 +1,11 @@
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\obj\Debug\netcoreapp3.1\teste grupo criar - kart.csprojAssemblyReference.cache
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\obj\Debug\netcoreapp3.1\teste grupo criar - kart.AssemblyInfoInputs.cache
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\obj\Debug\netcoreapp3.1\teste grupo criar - kart.AssemblyInfo.cs
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.exe
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.deps.json
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.runtimeconfig.json
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.runtimeconfig.dev.json
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.dll
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\bin\Debug\netcoreapp3.1\teste grupo criar - kart.pdb
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\obj\Debug\netcoreapp3.1\teste grupo criar - kart.dll
+C:\Users\Nelson\source\repos\teste grupo criar - kart\teste grupo criar - kart\obj\Debug\netcoreapp3.1\teste grupo criar - kart.pdb
